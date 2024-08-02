@@ -32,6 +32,12 @@ A command-line application to manage a company's employee database using Node.js
 - Add an employee
 - Update an employee role
 
+## Screenshots
+![run through](image.png)
+![screenshot1](image-1.png)
+![screenshot2](image-2.png)
+
+
 ## License
 
 This project is licensed under the MIT License.
