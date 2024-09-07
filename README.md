@@ -4,11 +4,15 @@
 
 The Employee Management System is a command-line application built using Node.js, Inquirer, and PostgreSQL. It allows business owners to manage and organize their company's departments, roles, and employees efficiently. With this application, users can view and manage the company's departments, roles, and employees, ensuring smooth operations and planning.
 
+
+![sample image of function](assets/img/CMS.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Walkthrough Video](#walkthrough-video)
 - [Database Schema](#database-schema)
 - [Contributing](#contributing)
 - [License](#license)
@@ -60,6 +64,7 @@ Use the arrow keys to navigate through the options and select the desired action
 
 ## Features
 
+![DEMO of functionality](assets/img/demo.cms.gif)
 - View All Departments: Displays a table with department names and IDs.
 - View All Roles: Displays job titles, role IDs, department names, and salaries.
 - View All Employees: Displays employee details, including IDs, names, job titles, departments, salaries, and managers.
@@ -67,6 +72,9 @@ Use the arrow keys to navigate through the options and select the desired action
 - Add Role: Allows you to add a new role with a title, salary, and department.
 - Add Employee: Allows you to add a new employee with a name, role, and manager.
 - Update Employee Role: Allows you to update an employee's role in the database.
+
+## Walkthrough Video
+CLICK [[here]](https://youtu.be/shN8GHjoxYw?si=naEqoTqdUIa6Drt_)
 
 ## Database Schema
 
@@ -90,3 +98,7 @@ The database schema consists of three tables:
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+- github: markjas0n
+- email: [markjas0n@icloud.com](markjas0n@icloud.com)
