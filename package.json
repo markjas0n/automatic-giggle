@@ -1,15 +1,19 @@
 {
-  "name": "employee-tracker",
+  "name": "employee.manage",
   "version": "1.0.0",
-  "description": "A command-line application to manage a company's employee database",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
+  "directories": {
+    "lib": "lib"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "pg": "^8.7.1"
-  },
-  "author": "Your Name",
-  "license": "MIT"
+    "pg": "^8.12.0"
+  }
 }
